@@ -2,12 +2,6 @@
 
 <div align="center" style="color:blue">
 
-<a href="https://github.com/ankushKun">student</a> · 
-<a href="https://github.com/ankushKun">I love building</a> ·
-<a href="https://github.com/ankushKun">web3 developer</a>
-
-<a href="https://ankushKun.github.io" target="_blank">checkout portfolio</a>
-
 
 <!-- <div align="center">
     <h2>Some of my notable repos <img src="https://cdn.discordapp.com/emojis/763708605114482708.webp" width="30px"></h2>
@@ -68,13 +62,7 @@
 
 <h3>Socials</h3>
 
-<a href="https://twitter.com/ankushKun_" target="_blank">twitter</a> ·
-<a href="https://youtube.com/ankushKun" target="_blank">youtube</a> ·
-<a href="https://linkedin.com/in/ankushKun" target="_blank">linkedIn</a> ·
-<a href="https://instagram.com/ankushKun_" target="_blank">instagram</a> ·
-<a href="https://discord.com/app" target="_blank">discord (@ankushkun)</a> ·
-<a href="https://reddit.com/u/TECHIE6023" target="_blank">reddit</a> ·
-<a href="https://diamondapp.com/u/weeblet" target="_blank">deso</a>
+<a href="https://www.linkedin.com/in/riku-kodama-0bb20532b/" target="_blank">linkedIn</a> ·
     
 </div>
 
